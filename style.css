@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+#canvas {
+  display: block;
+  background-color: #000;
+  margin: 20px auto;
+}
+
+.count {
+  position: fixed;
+  top: 20px;
+  right: 10px;
+}
